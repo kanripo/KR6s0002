@@ -4,7 +4,9 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 20
-
+<pb:KR6s0002_SBCK_030-1a>
+法苑珠林卷第三十
+　　　唐上都西明寺沙門釋道世玄惲撰
 士女篇第十二
 　¶俗男部
 　　¶¶述意¶¶
