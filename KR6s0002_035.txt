@@ -4,8 +4,9 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 34
-
-撰¶
+<pb:KR6s0002_SBCK_047-1a>
+法苑珠林卷第四十七¶¶
+　　　唐上都西明寺沙門釋道世玄惲撰¶
 法服篇第三十¶
 　¶¶述意部<md:KR6s0002_T_035-0556b>¶夫袈裟為福田之服如敬佛塔泥洹僧為襯¶身之衣
 尊之如法衣名銷瘦取能銷瘦煩惱¶鎧名忍辱取能
