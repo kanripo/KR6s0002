@@ -4,6 +4,11 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+<pb:KR6s0002_SBCK_010-1a>
+法苑珠林卷第十
+　　　唐上都西明寺沙門釋道世玄惲撰
+六道篇第四之四
+　&KR0017;神部之餘
 
 舍宅¶
 如婆沙論説有威徳者便有宫宅七寳莊嚴¶一切山
