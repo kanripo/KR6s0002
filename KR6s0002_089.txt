@@ -4,8 +4,12 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 88
-
-三聚部
+<pb:KR6s0002_SBCK_107-1a>
+# SB1_0521-002.png
+法苑珠林卷第一百七
+　　　唐上都西明寺沙門釋道世玄惲撰
+受戒篇第八十七之四
+　三聚部
 　　¶述意¶¶¶¶¶
 夫十善五戒必須形受菩薩淨戒可以心成¶故戒法
 理曠事深在家出家平等而受慧¶芽因斯以成定水
