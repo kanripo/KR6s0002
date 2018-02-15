@@ -4,7 +4,9 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 63
-
+<pb:KR6s0002_SBCK_081-1a>
+法苑珠林卷第八十一
+　　　唐上都西明寺沙門釋道世玄惲撰
 慈悲篇第七十四
 　¶述意部¶¶¶
 夫含生禀氣皆有靈智蠢動翺翔咸知畏死¶致使菩
